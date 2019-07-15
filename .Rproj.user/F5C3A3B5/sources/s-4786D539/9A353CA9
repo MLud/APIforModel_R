@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1563189571269.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9A353CA9",
+    "lastKnownWriteTime" : 1563189749,
+    "last_content_update" : 1563189749211,
+    "path" : "~/GitHub/Rprojects/API/01.model.R",
+    "project_path" : "01.model.R",
+    "properties" : {
+        "cursorPosition" : "44,29",
+        "scrollLine" : "18",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
