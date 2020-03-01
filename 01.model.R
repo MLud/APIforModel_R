@@ -23,6 +23,10 @@ decision.tree <- rpart(
   , method="class"
   , data=data
 )
+
+
+#wizualizacja
+
 library(rpart.plot)
 # Visualize the tree
 # 1 is good, 2 is bad
